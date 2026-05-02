@@ -1,22 +1,22 @@
-# 🧾 Smart Billing System using Python
+# Smart Billing System using Python
 
 A simple and beginner-friendly billing system built using Python.  
 This project demonstrates how basic programming concepts like functions, return, and user input can be used to solve real-world billing problems.
 
 ---
 
-## 🚀 Features
+## Features
 
-- ➕ Add multiple item prices
-- 💰 Automatic total calculation
-- 🎁 Discount support (optional)
-- 🧾 Tax calculation
-- 🖥️ Simple console-based interface
-- 🔁 Reusable function-based design
+- Add multiple item prices
+- Automatic total calculation
+- Discount support (optional)
+- Tax calculation
+- Simple console-based interface
+- Reusable function-based design
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. User enters item prices
 2. System calculates total bill
@@ -26,7 +26,7 @@ This project demonstrates how basic programming concepts like functions, return,
 
 ---
 
-## 💻 Code Example
+## Code Example
 
 ```python
 def calculate_bill(items, discount_percent=0, tax_percent=0):
